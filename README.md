@@ -1,4 +1,4 @@
-# Projeto React
+# Aplicativo de Banco Moderno
 
 Projeto de um banco moderno, utilizando tecnologias como HTML, CSS, JavaScript, React e Tailwind CSS.
 
